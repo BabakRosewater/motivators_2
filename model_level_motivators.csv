@@ -1,68 +1,67 @@
-model,motivator_number,recommended_trim_path,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer
-venue,1,SEL w/ 2-Tone Roof,design_forward,Style-Leading,4,two_tone_styling,Contrast Roof Design
-venue,2,SEL (or SE),low_friction,Seamless-Convenience,4,proximity_key,Proximity Key Entry
-venue,3,SE (or SEL),value_centric,Logic-Driven,5,best_warranty,Best Warranty Coverage
-venue,4,SEL (or SE),safety_first,Peace-of-Mind,4,smartsense_suite,SmartSense Safety Suite
-venue,5,SEL (or SE),tech_indulgence,Digital-Wow,3,dual_usb_ports,Multiple USB Charging
-venue,6,SEL (or SE),space_optimizer,Versatile-Utility,4,folding_rear_seats,60/40 Split Folding
-kona,1,Limited (or SEL Premium),premium_presence,Top-Trim-Status,5,h_tex_seating,Premium H-Tex Seating
-kona,2,Limited (or SEL Premium),tech_integrated,Digital-Control,5,digital_key_2,Digital Key 2 Touch
-kona,3,SE (or SEL Sport),budget_logical,High-Value,5,fuel_efficiency,31 MPG Combined Efficiency
-kona,4,SEL Premium (or Limited),predictable_safety,Confidence-Standard,5,hda_system,Highway Driving Assist
-kona,5,Limited (or SEL Premium),comfort_rich,Indulgent-Comfort,4,ventilated_seats,Ventilated Front Seats
-kona,6,SEL Sport (or SE),active_shared,Trip-Ready,4,cargo_capacity,Versatile Cargo Space
-kona_electric,1,SE (Standard Range),modern_ev_identity,Future-Focused,3,dual_12_3_displays,"Dual 12.3"" Displays"
-kona_electric,2,SE (Standard Range),remote_empowered,Tech-Convenience,4,bluelink_plus,Bluelink+ Connected Care
-kona_electric,3,SE (Standard Range),efficient_logical,EV-Value-Expert,5,standard_range_battery,200-Mile Efficient Range
-kona_electric,4,SE (Standard Range),safe_predictable,Standard-Protection,5,smartsense_safety,SmartSense Driver Assists
-kona_electric,5,SE (Standard Range),smooth_electric,Quiet-Ride-Treat,4,quiet_operation,Ultra-Quiet Electric Drive
-kona_electric,6,SE (Standard Range),shared_efficiency,Family-EV-Logic,4,interior_volume,Spacious EV Interior
-santa_cruz,1,Limited (or XRT),sophisticated_luxury,Premium-Status,5,curved_dual_displays,"Dual 12.3"" Curved Screens"
-santa_cruz,2,Limited (or SEL Activity),independent_capable,Remote-Adventure,4,multifunction_tailgate,Multi-Function Tailgate
-santa_cruz,3,SE (or SEL),utility_value,Logical-Utility,5,under_bed_storage,Under-Bed Storage
-santa_cruz,4,SEL (or SE),adventure_confident,Secure-Confidence,5,smartsense_safety,SmartSense Driver Assists
-santa_cruz,5,XRT (or Limited),performance_wow,Turbocharged-Indulgence,5,turbo_engine,281-HP Turbo Engine
-santa_cruz,6,SEL Activity (or Limited),gear_ready,Weekend-Shared-Life,5,towing_capacity,"5,000-lb Towing Capacity"
-tucson,1,Limited (or SEL Premium),premium_versatility,High-Status-SUV,4,panoramic_sunroof,Panoramic Sunroof
-tucson,2,Limited (or SEL Premium),hands_free_tech,Frictionless-Control,4,smart_liftgate,Hands-Free Smart Liftgate
-tucson,3,SE (or SEL),segment_value,Logic-Driven-Value,5,towing_upgrade,"2,750-lb Tow Capacity"
-tucson,4,SEL Premium (or Limited),comprehensive_safety,Peace-of-Mind,5,smartsense_safety,SmartSense Safety Suite
-tucson,5,Limited (or XRT),comfort_premium,Indulgent-Treat,4,ventilated_seats,Ventilated Front Seats
-tucson,6,XRT (or SEL Premium),road_trip_ready,Shared-Experience,5,cargo_space,41.2 cu. ft. Cargo Space
-tucson_hybrid,1,Limited (or SEL Convenience),eco_premium,High-Tech-Premium,5,dark_chrome_grille,Dark Chrome Accent Grille
-tucson_hybrid,2,Limited (or SEL Convenience),tech_convenient,Smart-Independence,4,shift_by_wire,Column Shift-by-Wire
-tucson_hybrid,3,Blue SE (or SEL),logic_efficient,Efficiency-Logic,5,hybrid_mpg,231-HP Hybrid Efficiency
-tucson_hybrid,4,SEL (or Blue SE),all_weather_safe,AWD-Confidence,5,htrac_awd,Standard HTRAC AWD
-tucson_hybrid,5,Limited (or SEL Convenience),refined_performance,Power-Indulgence,4,bose_audio,Bose Premium Audio
-tucson_hybrid,6,Limited (or SEL Convenience),family_adventure,Shared-Utility,4,interior_volume,Spacious Hybrid Interior
-tucson_phev,1,Limited (or SEL),advanced_tech_status,Tech-Signature,4,phev_badging,Exclusive PHEV Identity
-tucson_phev,2,Limited (or SEL),gas_independent,EV-Independence,5,ev_range,32-Mile All-Electric Range
-tucson_phev,3,SEL (or Limited),long_term_value,Efficiency-Logic,5,mpge_rating,77 MPGe Efficiency
-tucson_phev,4,SEL (or Limited),predictable_safety,Safe-Predictability,5,smartsense_standard,SmartSense Safety Suite
-tucson_phev,5,Limited (or SEL),premium_luxury,Silent-Luxury-Wow,5,remote_parking,Remote Smart Parking Assist
-tucson_phev,6,Limited (or SEL),eco_family,Shared-Eco-Life,4,smart_liftgate,Hands-Free Smart Liftgate
-santa_fe,1,Calligraphy (or Limited),bold_status,High-Presence-Status,5,boxy_design,Bold Square Design
-santa_fe,2,Limited (or XRT),digital_control,Seamless-Tech-Control,5,curved_display,"Dual 12.3"" Curved Display"
-santa_fe,3,SE (or SEL),logic_capacity,Value-Utility-Logic,5,three_row_seating,Standard Three-Row Capacity
-santa_fe,4,Limited (or XRT),family_security,Confidence-Secure,5,collision_avoidance,Collision-Avoidance Assist
-santa_fe,5,Calligraphy (or Limited),indulgent_adventure,Luxury-Retreat,5,nappa_leather,Premium Nappa Leather
-santa_fe,6,XRT (or Limited),shared_adventure,Road-Trip-Shared-Life,5,captain_chairs,2nd-Row Captain's Chairs
-santa_fe_hybrid,1,Calligraphy (or Limited),eco_status,Premium-Eco-Status,5,calligraphy_trim,Calligraphy Flagship Trim
-santa_fe_hybrid,2,Limited (or SEL),high_tech_autonomy,Tech-Independence,4,bluelink_plus,Bluelink+ Connectivity
-santa_fe_hybrid,3,SE (or SEL),logical_expert,Efficiency-Logic,5,hybrid_range,600-Mile Driving Range
-santa_fe_hybrid,4,SEL (or SE),all_weather_safe,AWD-Confidence,5,htrac_awd,Available HTRAC AWD
-santa_fe_hybrid,5,Calligraphy (or Limited),silent_premium,Smooth-Hybrid-Reward,4,quiet_drive,Quiet Hybrid Performance
-santa_fe_hybrid,6,SEL (or SE),shared_efficiency,Family-Connection,5,rear_legroom,"42"" 2nd-Row Legroom"
-palisade,1,Calligraphy (or Limited),flagship_status,Pinnacle-of-Luxury,5,illuminated_grille,Illuminated Grille Design
-palisade,2,Calligraphy (or Limited),advanced_control,High-Tech-Independence,5,remote_parking,Remote Smart Parking Assist
-palisade,3,SE (or SEL),flagship_value,Logical-Flagship-Value,5,best_warranty,Best Warranty Coverage
-palisade,4,Limited (or Calligraphy),ultimate_safety,Top-Safety-Confidence,5,hda_2_system,Highway Driving Assist 2
-palisade,5,Calligraphy (or Limited),indulgent_luxury,Massaging-Driver-Treat,5,massaging_seats,Ergo-Motion Massaging Seat
-palisade,6,SEL (or SE),maximum_shared,Multi-Row-Connection,5,passenger_capacity,8-Passenger Seating
-palisade_hybrid,1,Calligraphy (or Limited),premium_eco_flagship,Eco-Luxury-Status,5,calligraphy_hybrid,Calligraphy Hybrid Status
-palisade_hybrid,2,Calligraphy (or Limited),smart_convenience,High-Tech-Convenience,4,digital_key_2,Digital Key 2 Premium
-palisade_hybrid,3,SEL (or Blue SEL Premium),efficiency_logic,Intelligent-Efficiency,5,hybrid_mpg,34 MPG Combined (FWD)
-palisade_hybrid,4,Limited (or Calligraphy),predictable_safety,Safe-Family-Secure,5,smartsense_safety,Standard SmartSense Suite
-palisade_hybrid,5,Calligraphy (or Limited),high_power_wow,Performance-Hybrid-Reward,5,combined_hp,329-HP System Output
-
-palisade_hybrid,6,SEL (or Blue SEL Premium),shared_utility,Family-Trip-Utility,5,cargo_capacity,Identical Cargo Capacity
+model,model_year,motivator_number,recommended_trim_path,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer,proof_points,notes
+venue,2026,1,"SEL w/ 2-Tone Roof",standout,Standout,4,two_tone_styling,"Contrast Roof Design","Exclusive white roof available on Denim body; 17-inch alloy wheels; chrome grille design","Use when guest wants a distinctive look that reflects their personal style in the city."
+venue,2026,2,SEL,convenient,Convenient,4,proximity_key,"Proximity Key Entry","Proximity Key with push button start; wireless charging pad; dual 2nd-row USB ports","Use when guest values tech that reduces daily friction for a seamless commute."
+venue,2026,3,SE,logical,Logical,5,starting_msrp,"High Value Logic","Starting MSRP (excludes tax/title/fees) $20550; up to 33 MPG highway; 10-year 100000-mile powertrain warranty","Use when guest is budget-focused and wants long-term financial protection."
+venue,2026,4,SEL,safe,Safe,4,safety_tech,"Hyundai SmartSense","Blind-Spot Collision Warning; Rear Cross-Traffic Collision Warning; Lane Keeping Assist","Use when guest expresses concern about city traffic safety and driver awareness."
+venue,2026,5,SEL,upgraded,Upgraded,3,comfort_upgrades,"Small SUV Indulgence","Power sunroof; heated front seats; leather-wrapped steering wheel and shift knob","Use when guest wants affordable luxuries and treats in a small urban footprint."
+venue,2026,6,"SE (or SEL)",together,Together,4,versatile_space,"Flexible Cargo Utility","60/40 split fold-down rear seat; 5-passenger seating; 18.7 cu ft cargo behind 2nd row","Use when guest needs a versatile interior for shared errands and an active lifestyle."
+kona,2026,1,Limited,premium,Premium,5,h_tex_seating,"Premium H-Tex Interior","H-Tex leatherette-trimmed seats; 19-inch alloy wheels; ventilated front seats","Use when guest wants a high-status interior feel and top-tier appearance."
+kona,2026,2,Limited,convenient,Convenient,5,digital_key_2,"Digital Key 2 Touch","Hyundai Digital Key 2 Touch; hands-free smart liftgate; 12.3-inch digital instrument cluster","Use when guest loves using their smartphone as their primary vehicle interface."
+kona,2026,3,SE,efficient,Efficient,5,fuel_economy,"Fuel Efficiency Logic","31 MPG combined; IVT transmission; Idle Stop and Go","Use when guest seeks high efficiency and low initial cost-to-own."
+kona,2026,4,"SEL Premium",secure,Secure,5,smartsense,"Advanced Driver Assists","Smart Cruise Control with Stop and Go; Highway Driving Assist; FCA with Junction Turning","Use when guest prioritizes a secure drive with semi-autonomous assistance for commuting."
+kona,2026,5,Limited,exciting,Exciting,5,turbo_engine,"Turbocharged Performance","190-hp 1.6L Turbo-GDI engine; 8-speed automatic; paddle shifters","Use when guest wants punchy performance and engaging driving dynamics."
+kona,2026,6,"SEL Sport",welcoming,Welcoming,4,cargo_volume,"Versatile Cargo Space","25.5 cu ft cargo space behind rear seats; 63.7 cu ft max cargo; dual 12.3-inch displays","Use when guest needs class-leading utility for gear and social trips."
+kona_electric,2026,1,SE,sharp,Sharp,3,pixel_lighting,"Pixel Themed Design","Pixel-themed exterior lighting; dual 12.3-inch panoramic displays; aerodynamic design","Use when guest wants a future-focused EV that projects a high-tech identity."
+kona_electric,2026,2,SE,straightforward,Straightforward,4,bluelink_plus,"Bluelink Plus Connectivity","Bluelink+ connected car system; wireless smartphone integration; over-the-air software updates","Use when guest wants simple tech and remote vehicle management."
+kona_electric,2026,3,SE,efficient,Efficient,5,standard_range,"Electric Value Expert","200-mile EPA range; 48.6-kWh battery; ultra-low operating costs","Use when guest wants the most logical and affordable electric daily commute."
+kona_electric,2026,4,SE,dependable,Dependable,5,drive_confidence,"Standard Peace of Mind","10-year 100000-mile battery warranty; Navigation-based Smart Cruise Control; 10 airbags","Use when guest needs predictability for their transition to electric."
+kona_electric,2026,5,SE,refreshing,Refreshing,4,quiet_drive,"Refined Quiet Drive","Near-silent electric motor; smooth 133-hp performance; isolated cabin for noise reduction","Use when guest wants the refreshing quiet of an EV without a luxury price."
+kona_electric,2026,6,SE,connected,Connected,4,passenger_space,"Practical EV Interior","Flat rear floor; 101.2 cu ft passenger volume; dual-zone automatic climate control","Use when guest needs a practical EV for small families or shared travel."
+santa_cruz,2026,1,Limited,impressive,Impressive,5,luxury_cabin,"Premium Truck Interior","Leather seating surfaces; 20-inch alloy wheels; Bose premium audio","Use when guest wants an impressive high-status cabin with truck utility."
+santa_cruz,2026,2,"SEL Activity",flexible,Flexible,4,tonneau_cover,"Gear Security Tech","Integrated tonneau cover; wireless device charging; multi-function tailgate","Use when guest values gear security and independent lifestyle versatility."
+santa_cruz,2026,3,SE,smart,Smart,5,utility_value,"Smart Storage Logic","25 MPG combined; lockable under-bed storage; 10-year powertrain warranty","Use when guest wants the most practical entry into a sport adventure vehicle."
+santa_cruz,2026,4,SEL,secure,Secure,5,htrac_awd,"All Weather AWD Confidence","Available HTRAC All Wheel Drive; standard Blind-Spot Collision Warning; Safe Exit Warning","Use when guest wants secure handling in diverse weather and road conditions."
+santa_cruz,2026,5,XRT,adventurous,Adventurous,5,turbo_performance,"Turbo Performance Wow","281-hp 2.5L Turbo engine; 311 lb-ft torque; 8-speed automatic transmission","Use when guest wants adventurous performance and high-impact rugged styling."
+santa_cruz,2026,6,"SEL Activity",together,Together,5,towing_capability,"Adventure Ready Utility","Up to 5000 lbs towing capacity; heavy-duty cargo tie-downs; 5-passenger seating","Use when guest needs a tool for shared weekend trips and gear hauling."
+tucson,2026,1,Limited,premium,Premium,4,dark_chrome_grille,"Refined Grille Signature","Dark chrome accent grille; panoramic sunroof; leather-trimmed seats","Use when guest wants the most refined and premium status version of the Tucson."
+tucson,2026,2,"SEL Premium",convenient,Convenient,4,smart_liftgate,"Smart Cargo Convenience","Hands-free smart liftgate; Digital Key; wireless device charging","Use when guest wants seamless convenience for daily errands and loading."
+tucson,2026,3,SE,logical,Logical,5,increased_towing,"Expanded Utility Logic","2750 lbs max towing capacity; 33 MPG highway; starting MSRP (excludes tax/title/fees) $29200","Use when guest wants a logic-driven value SUV with upgraded towing utility."
+tucson,2026,4,SEL,trustworthy,Trustworthy,5,smartsense,"Standard Safety Suite","Forward Collision-Avoidance with Junction Turning; Lane Keeping Assist; Driver Attention Warning","Use when guest prioritizes a trustworthy and dependable safety suite."
+tucson,2026,5,XRT,bold,Bold,4,rugged_styling,"Adventurous XRT Look","XRT exclusive exterior accents; 18-inch dark alloy wheels; Terrain Mode Select","Use when guest wants a bold look with added off-road confidence."
+tucson,2026,6,"SEL Premium",welcoming,Welcoming,5,cargo_capacity,"Trip Ready Space","41.2 cu ft cargo behind 2nd row; 80.3 cu ft max cargo; rear air vents","Use when guest needs a welcoming space for road trips and family gear."
+tucson_hybrid,2026,1,Limited,sharp,Sharp,5,projector_lighting,"High Tech LED Lighting","Projector-type Bi-LED headlights; 19-inch alloy wheels; Bose premium audio","Use when guest wants a high-tech sharp look to match their hybrid choice."
+tucson_hybrid,2026,2,"SEL Convenience",in_control,"In-control",4,paddle_shifters,"Dynamic Driving Control","Steering-wheel-mounted paddle shifters; column-mounted Shift-by-Wire; 12.3-inch digital cluster","Use when guest values advanced driver control over regenerative braking."
+tucson_hybrid,2026,3,"Blue SE",efficient,Efficient,5,combined_mpg,"Logic Driven Hybrid","35 MPG combined; 231-hp total system output; regenerative braking","Use when guest prioritizes the most efficient and practical hybrid choice."
+tucson_hybrid,2026,4,SEL,secure,Secure,5,standard_htrac,"Standard AWD Confidence","Standard HTRAC All Wheel Drive; Blind-Spot Collision-Avoidance Assist; Highway Driving Assist","Use when guest wants secure handling and standard all-wheel drive."
+tucson_hybrid,2026,5,Limited,upgraded,Upgraded,4,remote_parking,"Tech Forward Reward","Remote Smart Parking Assist; ventilated front seats; heated steering wheel","Use when guest wants upgraded luxury features that simplify daily parking."
+tucson_hybrid,2026,6,"SEL Convenience",connected,Connected,4,cabin_volume,"Shared Family Space","106.9 cu ft passenger volume; identical cargo space as gas models; wireless Apple CarPlay","Use when guest wants hybrid efficiency without sacrificing interior space."
+tucson_phev,2026,1,Limited,successful,Successful,4,phev_exclusive,"Advanced Tech Status","Exclusive PHEV identity menu; 19-inch alloy wheels; leather-trimmed seating","Use when guest wants to showcase their successful transition to high-tech green power."
+tucson_phev,2026,2,SEL,independent,Independent,5,electric_range,"Fuel Free Commuting","32-mile all-electric range; Level 1/Level 2 combo charging cable included; gas engine backup","Use when guest wants the independence of fuel-free daily commuting."
+tucson_phev,2026,3,SEL,informed,Informed,5,mpge_rating,"Efficiency Informed Choice","77 MPGe combined; 35 MPG gas-only; 10-year battery warranty","Use when guest makes an informed choice for maximum long-term efficiency."
+tucson_phev,2026,4,SEL,safe,Safe,5,standard_safety,"Predictable AWD Safety","Standard HTRAC All Wheel Drive; Forward Collision-Avoidance; Smart Cruise Control","Use when guest wants a safe and predictable drive with plug-in capability."
+tucson_phev,2026,5,Limited,upgraded,Upgraded,5,comfort_upgrades,"Premium PHEV Reward","Memory driver seat; heated 2nd-row seats; ventilated front seats","Use when guest wants the ultimate upgraded reward for their daily commute."
+tucson_phev,2026,6,Limited,family_friendly,"Family-friendly",4,smart_liftgate,"Eco Family Utility","Hands-free smart liftgate; panoramic sunroof; 5-passenger capacity","Use when guest needs a family-friendly SUV that is eco-conscious and versatile."
+santa_fe,2026,1,Calligraphy,standout,Standout,5,design_signature,"Flagship Design Signature","21-inch dark-finish alloy wheels; Nappa leather seats; H-style LED headlights","Use when guest wants a standout vehicle that rivals luxury brand SUVs."
+santa_fe,2026,2,Limited,convenient,Convenient,5,curved_display,"Connected Tech Cockpit","Panoramic curved display; Digital Key 2; dual wireless device charging","Use when guest values a high-tech low-friction interior design."
+santa_fe,2026,3,SE,value,Value,5,seating_logic,"Logical Seating Value","Standard 3-row seating for 7; 10-year powertrain warranty; starting MSRP (excludes tax/title/fees) $34800","Use when guest needs a logical 3-row family vehicle at a great value."
+santa_fe,2026,4,SEL,dependable,Dependable,5,drive_confidence,"Predictable Shift Quality","8-speed automatic transmission; HTRAC AWD available; SmartSense safety suite","Use when guest wants a dependable and predictable ride for their family."
+santa_fe,2026,5,Calligraphy,bold,Bold,5,relaxation_seats,"Luxury Retreat Feature","Relaxation front seats with leg rests; massaging driver seat; 277-hp turbo engine","Use when guest wants a bold and indulgent reward after a long day."
+santa_fe,2026,6,Limited,together,Together,5,passenger_convenience,"Shared Trip Connectivity","Standard 2nd-row captain chairs; USB-C ports in all 3 rows; 79.6 cu ft max cargo","Use when guest prioritizes comfort and connectivity for all passengers."
+santa_fe_hybrid,2026,1,Calligraphy,respected,Respected,5,luxury_efficiency,"Flagship Hybrid Prestige","20-inch dark-finish alloys; quilted Nappa leather; flagship hybrid badging","Use when guest wants a respected flagship with advanced hybrid tech."
+santa_fe_hybrid,2026,2,Limited,simple,Simple,4,shift_by_wire,"Simplified Shift Tech","Column-mounted Shift-by-Wire; Digital Key 2; remote start","Use when guest wants a simple and tech-forward interaction with their SUV."
+santa_fe_hybrid,2026,3,SE,evidence_based,"Evidence-based",5,driving_range,"Evidence Based Efficiency","Over 600 miles total range; 36 MPG combined; 231-hp system output","Use when guest makes an evidence-based choice to maximize road trip range."
+santa_fe_hybrid,2026,4,SEL,secure,Secure,5,all_weather_safe,"All Weather Security","HTRAC AWD available; Highway Driving Assist; 10 standard airbags","Use when guest wants a secure and safe environment for their growing family."
+santa_fe_hybrid,2026,5,Calligraphy,refreshing,Refreshing,4,silent_start,"Smooth Silent Reward","Smooth hybrid torque; near-silent electric operation; premium Bose audio","Use when guest wants a refreshing quiet escape from daily traffic noise."
+santa_fe_hybrid,2026,6,SEL,together,Together,5,interior_room,"Family First Legroom","42.3 inches 2nd-row legroom; 3 rows of seating; Wi-Fi hotspot for 5 devices","Use when guest needs a together-focused interior with room for the crew."
+palisade,2026,1,Calligraphy,successful,Successful,5,flagship_design,"Near Luxury Presence","Illuminated grille; 21-inch alloy wheels; Nappa leather seating","Use when guest wants a vehicle that signals their success with flagship design."
+palisade,2026,2,Limited,straightforward,Straightforward,5,hda_2,"Straightforward Assist","Highway Driving Assist 2; Remote Smart Parking Assist; Digital Key 2.0 Premium","Use when guest wants tech that handles complex driving tasks with ease."
+palisade,2026,3,SE,smart,Smart,5,passenger_value,"Maximum Space Logic","8-passenger seating; 12.3-inch touchscreen; starting MSRP (excludes tax/title/fees) $38935","Use when guest wants a smart choice for maximum passenger capacity."
+palisade,2026,4,"SEL Premium",dependable,Dependable,5,top_safety,"Trusted Safety Ratings","IIHS Top Safety Pick+; 10 standard airbags; blind-spot view monitor","Use when guest wants the most dependable and highly-rated safety suite."
+palisade,2026,5,Calligraphy,engaging,Engaging,5,premium_amenities,"Premium Amenity Reward","Massaging driver seat; 14-speaker Bose audio; heated and cooled relaxation seats","Use when guest wants an engaging and ultra-premium reward for every trip."
+palisade,2026,6,"XRT PRO",adventurous,Adventurous,5,off_road_ready,"Adventure Ready Tool","8.4 inches ground clearance; electronic rear eLSD; all-terrain tires","Use when guest needs an adventurous tool for shared family getaways."
+palisade_hybrid,2026,1,Calligraphy,standout,Standout,5,hybrid_prestige,"High Power Prestige","329 combined horsepower; unique Calligraphy hybrid accents; flagship luxury","Use when guest wants a standout SUV with the prestige of a hybrid."
+palisade_hybrid,2026,2,"SEL Premium",convenient,Convenient,4,hybrid_stay_mode,"Silent Cabin Tech","Hybrid Stay Mode for HVAC; UV-C sterilization compartment; Digital Key","Use when guest values the convenience of silent electronics at a campsite."
+palisade_hybrid,2026,3,SEL,efficient,Efficient,5,range_logic,"Logical Range Expert","Up to 34 MPG combined; 619-mile estimated range; 18.2-gallon fuel tank","Use when guest seeks a logical vehicle that delivers massive driving range."
+palisade_hybrid,2026,4,Limited,trustworthy,Trustworthy,5,drive_assist,"Awareness Tech Suite","Surround View Monitor; Blind Spot View Monitor; Forward Attention Warning","Use when guest wants a trustworthy flagship with advanced driver awareness."
+palisade_hybrid,2026,5,Calligraphy,exciting,Exciting,5,instant_torque,"Powerful Hybrid Torque","339 lb-ft torque; turbocharged hybrid engine; electric motor assist","Use when guest wants the most exciting and powerful Palisade powertrain."
+palisade_hybrid,2026,6,"SEL Premium",connected,Connected,5,cargo_utility,"Shared Trip Capacity","19.1 cu ft space behind 3rd row; identical cargo to gas models; 6 USB-C ports","Use when guest needs a connected cabin with no cargo compromise for trips."
