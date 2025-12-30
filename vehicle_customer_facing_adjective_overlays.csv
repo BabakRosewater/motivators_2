@@ -1,1 +1,76 @@
 model,model_year,trim,motivator_number,channel,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer,notes
+model,model_year,trim,motivator_number,channel,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer,notes
+elantra,2026,se,3,any,sensible,sensible,4,roi_resale,ROI / Resale,approved_prudence_fallback
+elantra,2026,sel,2,any,straightforward,straightforward,4,convenience_tech,Convenience Tech,focus_on_ease_of_use
+elantra,2026,sel_sport_premium,1,any,elevated,elevated,4,interior_finish,Interior Finish,status_boost_for_sport_trim
+elantra,2026,n_line,5,any,exciting,exciting,5,acceleration_handling,Acceleration & Handling,high_energy_reward_energy
+elantra,2026,limited,1,any,premium,premium,5,cabin_materials,Cabin Materials,focus_on_top_tier_materials
+elantra,2026,n_dct,5,any,high_impact,high-impact,5,track_tuned_tech,Track-Tuned Tech,maximum_reward_performance
+elantra,2026,n_mt,5,any,engaging,engaging,5,manual_control,Manual Control,purist_enthusiast_reward
+elantra_hybrid,2026,hev_sel_sport,3,any,efficient,efficient,4,fuel_savings,Fuel Savings,primary_hybrid_value_hook
+elantra_hybrid,2026,limited,1,any,refined,refined,5,hybrid_ride_quality,Hybrid Ride Quality,smoothness_plus_status
+elantra_hybrid,2026,blue,3,any,smart,smart,5,mpg_story,MPG Story,highest_practical_roi
+ioniq_5_awd,2026,se,3,any,practical,practical,4,ev_efficiency,EV Efficiency,entry_level_ev_logic
+ioniq_5_awd,2026,sel,2,any,convenient,convenient,4,charging_ease,Charging Ease,autonomy_control_focus
+ioniq_5_awd,2026,xrt,5,any,bold,bold,5,rugged_design,Rugged Design,specific_reward_for_off_road_look
+ioniq_5_awd,2026,limited,1,any,statement_making,statement-making,5,design_identity,Design Identity,flagship_ev_presence
+ioniq_5_awd,2026,xrt_tow_hitch,3,any,informed,informed,4,towing_specs,Towing Specs,data_backed_capability
+ioniq_9_awd,2026,se_awd,4,any,secure,secure,4,traction_stability,Traction & Stability,safety_for_large_family_ev
+ioniq_9_awd,2026,sel_awd,6,any,welcoming,welcoming,4,cabin_space,Cabin Space,hospitality_focus_for_families
+ioniq_9_awd,2026,performance_limited_awd,1,any,flagship,flagship,5,presence_scale,Presence & Scale,top_tier_status_positioning
+ioniq_9_awd,2026,performance_calligraphy_awd,1,any,prestige,prestige,5,signature_design,Signature Design,the_ultimate_statement
+ioniq_9_awd,2026,performance_calligraphy_design_awd,1,any,exclusive,exclusive,5,bespoke_details,Bespoke Details,maximum_status
+kona_awd,2026,se,3,any,sensible,sensible,4,utility_value,Utility Value,smart_city_suv_logic
+kona_awd,2026,sel_sport_awd,5,any,refreshing,refreshing,4,vibrant_design,Vibrant Design,modern_urban_reward
+kona_awd,2026,sel_premium_awd,1,any,polished,polished,4,tech_updates,Tech Updates,refined_tech_forward_feel
+kona_awd,2026,limited,1,any,high_impact,high-impact,5,wheels_finish,Wheels & Finish,visual_standout_styling
+palisade_awd,2026,se,4,any,dependable,dependable,4,reliability,Reliability,foundational_security_word
+palisade_awd,2026,sel_convenience,2,any,flexible,flexible,4,seating_layout,Seating Layout,autonomy_choice_focus
+palisade_awd,2026,sel_premium_7p,6,any,together,together,4,captain_chairs,Captain’s Chairs,focus_on_shared_experiences
+palisade_awd,2026,sel_7p,6,any,connected,connected,4,passenger_tech,Passenger Tech,connection_through_utility
+palisade_awd,2026,xrt_pro,5,any,bold,bold,5,rugged_appearance,Rugged Appearance,tough_reward_for_adventure
+palisade_awd,2026,sel_8p,6,any,family_friendly,family-friendly,5,bench_seating,Bench Seating,direct_connection_family_hook
+palisade_awd,2026,limited,1,any,refined,refined,5,interior_comfort,Interior Comfort,sophisticated_status_word
+palisade_awd,2026,sel_premium_8p,6,any,welcoming,welcoming,4,cargo_seating,Cargo & Seating,maximum_group_hospitality
+palisade_awd,2026,calligraphy,1,any,prestige,prestige,5,materials_finish,Materials & Finish,ultimate_palisade_status
+palisade_hybrid,2026,sel_7p,3,any,smart,smart,4,hybrid_value,Hybrid Value,the_logical_premium_choice
+palisade_hybrid,2026,blue_sel_7p,3,any,efficient,efficient,5,fuel_savings,Fuel Savings,direct_roi_for_families
+palisade_hybrid,2026,sel_8p,3,any,practical,practical,4,family_utility,Family Utility,logical_family_hybrid
+palisade_hybrid,2026,blue_sel_8p,3,any,smart,smart,5,long_term_value,Long-Term Value,high_mileage_family_efficiency
+palisade_hybrid,2026,sel_premium_7p,6,any,together,together,4,cabin_comfort,Cabin Comfort,hybrid_smoothness_for_families
+palisade_hybrid,2026,blue_sel_premium_7p,3,any,efficient,efficient,5,fuel_economy,Fuel Economy,data_backed_hybrid_savings
+palisade_hybrid,2026,sel_premium_8p,6,any,welcoming,welcoming,4,interior_space,Interior Space,hospitality_focus
+palisade_hybrid,2026,blue_sel_premium_8p,3,any,smart,smart,5,ownership_costs,Ownership Costs,prudence_priority
+palisade_hybrid,2026,limited,1,any,elevated,elevated,5,hybrid_tech,Hybrid Tech,modern_status_plus_efficiency
+palisade_hybrid,2026,calligraphy,1,any,refined,refined,5,top_tier_comfort,Top-Tier Comfort,flagship_hybrid_prestige
+santa_cruz_awd,2026,se,3,any,practical,practical,4,right_sized,Right-Sized,decision_value_framing
+santa_cruz_awd,2026,sel,3,any,sensible,sensible,4,utility_value,Utility Value,logical_urban_truck_choice
+santa_cruz_awd,2026,xrt,5,any,adventurous,adventurous,5,rugged_cues,Rugged Cues,high_energy_lifestyle_reward
+santa_cruz_awd,2026,limited,1,any,standout,standout,4,curb_appeal,Curb Appeal,truck_presence_with_refinement
+santa_cruz_awd,2026,sel_activity,5,any,versatile,versatile,5,lifestyle_bed,Lifestyle Bed,play_and_utility_combined
+santa_fe_awd,2026,se,4,any,trustworthy,trustworthy,4,stability,Stability,family_security_foundation
+santa_fe_awd,2026,sel,2,any,straightforward,straightforward,4,buying_process,Buying Process,easy_choice_for_volume
+santa_fe_awd,2026,xrt,5,any,adventure_ready,adventure-ready,5,off_road_cues,Off-Road Cues,rugged_lifestyle_reward
+santa_fe_awd,2026,limited,5,any,upgraded,upgraded,4,premium_tech,Premium Tech,the_family_reward_trim
+santa_fe_awd,2026,calligraphy,1,any,elevated,elevated,5,redesign_style,Redesign Style,bold_status_symbol
+santa_fe_hybrid,2026,se_awd,3,any,proven,proven,4,hybrid_reliability,Hybrid Reliability,efficiency_with_confidence
+santa_fe_hybrid,2026,limited,3,any,informed,informed,4,ownership_costs,Ownership Costs,data_backed_value
+santa_fe_hybrid,2026,calligraphy,1,any,prestige,prestige,5,nappa_leather,Nappa Leather,top_tier_hybrid_status
+sonata,2026,se,3,any,value_focused,value-focused,4,value_protection,Value Protection,smart_entry_positioning
+sonata,2026,sel,1,any,refined,refined,4,coupe_design,Coupe Design,aesthetic_first_status
+sonata,2026,n_line,5,any,high_impact,high-impact,5,acceleration,Acceleration,performance_first_reward
+sonata_hybrid,2026,blue,3,any,efficient,efficient,5,cost_to_own,Cost to Own,total_value_framing
+sonata_hybrid,2026,sel,3,any,smart,smart,4,hybrid_efficiency,Hybrid Efficiency,prudence_choice
+sonata_hybrid,2026,limited,1,any,polished,polished,5,dual_screens,Dual Screens,tech_forward_prestige
+tucson_awd,2026,se,3,any,sensible,sensible,4,reliability,Reliability,practical_decision_support
+tucson_awd,2026,xrt,5,any,bold,bold,4,rugged_stance,Rugged Stance,visual_reward_for_styling
+tucson_awd,2026,sel_convenience,2,any,simple,simple,4,daily_tech,Daily Tech,removing_friction_from_process
+tucson_awd,2026,limited,1,any,standout,standout,5,tech_walkthrough,Tech Walkthrough,class_above_status
+tucson_hybrid,2026,blue_se_awd,3,any,efficient,efficient,5,mpg_story,MPG Story,direct_practical_hook
+tucson_hybrid,2026,sel,3,any,smart,smart,4,hybrid_value,Hybrid Value,logical_upgrade
+tucson_hybrid,2026,limited,1,any,refined,refined,5,interior_finish,Interior Finish,upscale_hybrid_positioning
+tucson_phev,2026,sel,2,any,flexible,flexible,5,drive_modes,Drive Modes,control_over_ev_vs_gas_choice
+tucson_phev,2026,limited,1,any,elevated,elevated,5,phev_performance,PHEV Performance,modern_tech_reward
+venue,2026,se_at,3,any,smart,smart,5,urban_mobility,Urban Mobility,logic_first_city_choice
+venue,2026,sel_at,2,any,convenient,convenient,5,easy_parking,Easy Parking,removing_urban_driving_stress
+venue,2026,sel_2_tone_roof,1,any,polished,polished,4,styling_details,Styling Details,visual_standout_status
