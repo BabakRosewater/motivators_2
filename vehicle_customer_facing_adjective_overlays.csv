@@ -1,5 +1,4 @@
 model,model_year,trim,motivator_number,channel,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer,notes
-model,model_year,trim,motivator_number,channel,adjective_key,adjective_customer,boost,feature_anchor_key,feature_anchor_customer,notes
 elantra,2026,se,3,any,sensible,sensible,4,roi_resale,ROI / Resale,approved_prudence_fallback
 elantra,2026,sel,2,any,straightforward,straightforward,4,convenience_tech,Convenience Tech,focus_on_ease_of_use
 elantra,2026,sel_sport_premium,1,any,elevated,elevated,4,interior_finish,Interior Finish,status_boost_for_sport_trim
